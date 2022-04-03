@@ -1,0 +1,36 @@
+
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.card {
+    display: inline-block;
+    width: 20%;
+    border-radius: 5px;
+
+}
+
+
+.image img{
+    width: 100%;
+    height: auto;
+}
+
+.title {
+    text-align: left;
+}
+.description {
+    text-align: justify;
+}
+
+div.main {
+    text-align: center;
+}
+div.main3 {
+    text-align: center;
+}
+div.main2 {
+    text-align: center;
+}
